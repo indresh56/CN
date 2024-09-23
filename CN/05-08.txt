@@ -1,0 +1,90 @@
+#include<stdio.h>
+#include<fcntl.h>
+#include<unistd.h>
+#include <stdlib.h>
+void printline(int fd)
+{
+
+char c;
+read(fd,&c,1);
+while(c!='\n')
+{
+printf("%c",c);
+read(fd,&c,1);
+}
+
+printf("\n");
+}
+int main()
+{
+int fd=open("in.txt",O_RDONLY);
+printline(fd);
+printline(fd);
+sleep(2);
+int ch=0;
+ch=fork();
+if(ch<=0)
+{
+printline(fd);
+printline(fd);
+printline(fd);
+printline(fd);
+printline(fd);
+char fd_str[10];
+snprintf(fd_str, sizeof(fd_str), "%d", fd);
+//printf("%s",fd_str);
+execl("./pexec","pexec",fd_str,NULL);
+//int t=execl("./pexec","pexec",NULL);
+//printf("%d",t);
+}
+
+}
+
+
+
+
+#include<stdio.h>
+#include<fcntl.h>
+#include<unistd.h>
+#include <stdlib.h>
+void printline(int fd)
+{
+
+char c;
+read(fd,&c,1);
+while(c!='\n')
+{
+printf("%c",c);
+read(fd,&c,1);
+}
+
+printf("\n");
+}
+int main(int argc,char*argv[])
+//int main()
+{
+//int fd=open("in.txt",O_RDONLY);
+//printf("hello");
+int fd = atoi(argv[1]);
+printline(fd);
+printline(fd);
+printline(fd);
+
+}
+
+
+
+hello world this is 1st line
+hello world this is 2nd line
+hello world this is 3rd line
+hello world this is 4th line
+hello world this is 5th line
+hello world this is 6th line
+hello world this is 7th line
+hello world this is 8th line
+hello world this is 9th line
+hello world this is 10th line
+hello world this is 11th line
+hello world this is 12th line
+hello world this is 13th line
+hello world this is 14th line
