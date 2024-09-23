@@ -1,0 +1,43 @@
+
+NITINETD: https://github.com/aks2507/Computer-Networks-Assignments/tree/main/End_lab_exam/ques_1
+https://github.com/DEBADRIBASAK/ComputerNetworks/tree/master/NITWd
+
+ABC SERVER: https://github.com/DEBADRIBASAK/ComputerNetworks/tree/master/ABC%20Server
+
+NITW TOURISM: https://github.com/DEBADRIBASAK/ComputerNetworks/tree/master/NITW_Tourism
+
+MULTICHAT BACKUP SERVER: https://github.com/DEBADRIBASAK/ComputerNetworks/tree/master/BackUpServer
+D:\NITW\CN\CN resource1\CN-master\RAW Sockets\backup
+
+TRAINING PLACE. SERVER: https://github.com/aks2507/Computer-Networks-Assignments/tree/main/Mid_exam/Q2
+
+ALL IN ONE SERVER: https://github.com/aks2507/Computer-Networks-Assignments/tree/main/Mid_exam/Q1
+MINOR1: https://github.com/talrejamohit03/Computer-Networks/tree/master/sockets/allInOne
+
+HOUSY-MULTI COUPONS: https://github.com/talrejamohit03/Computer-Networks/tree/master/midLab/housy
+
+PROXY: https://github.com/DEBADRIBASAK/ComputerNetworks/tree/master/Proxy_server
+MIDSEM:https://github.com/talrejamohit03/Computer-Networks/tree/master/sockets/proxyServer
+
+STANDBY SERVER: https://github.com/aks2507/Computer-Networks-Assignments/tree/main/fd_pass_NITW_News_Assignment_17/fd_pass
+https://github.com/DEBADRIBASAK/ComputerNetworks/tree/master/StandByServer
+
+RAW PACKETS: https://github.com/aks2507/Computer-Networks-Assignments/tree/main/m-n-server-client-NITW-Passport_Assignment_21/m-n-serv_cli
+
+BYPASS SERVER: D:\NITW\6th Sem\Computer Networks\Computer Networks\Computer Networks Lab\Lab3 samba
+
+FACILITATOR SERVER: https://github.com/DEBADRIBASAK/ComputerNetworks/tree/master/FacilitatorServer
+
+MULTI SERVICE SERVER: https://github.com/talrejamohit03/Computer-Networks/tree/master/select/MultiServiceServer
+
+ESS: D:\NITW\6th Sem\Computer Networks\Computer Networks\Lab\Lab11_02_22\labQ2
+
+ISS: D:\NITW\6th Sem\Computer Networks\Computer Networks\Lab\endsem
+
+LAB AFTER ESS: D:\NITW\6th Sem\Computer Networks\Computer Networks\Lab\Lab18_02_22
+
+PASSPORT + NITCRICKET: D:\NITW\6th Sem\Computer Networks\Computer Networks\Computer_Networks_Assignments\Assignment_Raw_Socket
+
+EXTRA: D:\NITW\6th Sem\Computer Networks\Computer Networks\Computer_Networks_Assignments
+
+FAKE SERVER: D:\NITW\6th Sem\Computer Networks\Computer Networks\Lab\lab01_04_22
